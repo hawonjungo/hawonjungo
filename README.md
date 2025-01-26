@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hawonjungo
 - 👀 I’m interested in dev life
-- 🌱 I’m currently learning C++, C++, JavaScript, .Net...
+- 🌱 I’m currently learning C#, JavaScript, .Net...
 - 💞️ I’m looking to collaborate on any relate to IT
 - 📫 How to reach me : Email - > hawon.jungo@gmail.com
 
