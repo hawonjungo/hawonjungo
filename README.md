@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hawonjungo
+- 👋 Hi, I’m Jun Hoang
 - 👀 I’m interested in dev life
 - 🌱 I’m currently learning C#, JavaScript, .Net...
 - 💞️ I’m looking to collaborate on any relate to IT
